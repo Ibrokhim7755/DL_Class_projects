@@ -18,3 +18,8 @@
 # ColorJitter
 ![colorjitter](https://github.com/Ibrokhim7755/DL_Class_projects/assets/89033710/049f8880-d482-490e-b117-d4cf2855bc4a)
 
+# RandomGrayscale
+![grayscale](https://github.com/Ibrokhim7755/DL_Class_projects/assets/89033710/9efdabae-9c48-4ca9-b7b5-799acb551ba1)
+
+# RandomResizedCrop
+![randomresized](https://github.com/Ibrokhim7755/DL_Class_projects/assets/89033710/b5d1d22f-5658-405b-8041-7e1992c8139b)
