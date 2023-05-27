@@ -11,6 +11,6 @@
 
 ![cnetercrop](https://github.com/Ibrokhim7755/DL_Class_projects/assets/89033710/65b4c304-8ded-44f0-b486-28a46af1548f)
 
-### RandomRotation
+###RandomRotation
 
 ![rotation](https://github.com/Ibrokhim7755/DL_Class_projects/assets/89033710/52e59ce5-fd88-4b89-8ae5-0e9d17809737)
