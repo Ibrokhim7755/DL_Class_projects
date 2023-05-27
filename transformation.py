@@ -26,8 +26,8 @@ def transform():
     # define transforms
     
     trform = tfs.Compose([tfs.Resize((255,255)),
-                          tfs.ToTensor(),
-                          tfs.Normalize(mean=[0.485, 0.456, 0.406], std = [0.229, 0.224, 0.225]),
+                          #tfs.ToTensor(),
+                          #tfs.Normalize(mean=[0.485, 0.456, 0.406], std = [0.229, 0.224, 0.225]),
                           tfs.RandomHorizontalFlip(),
                           tfs.CenterCrop(250),
                           tfs.RandomRotation(90),
