@@ -103,7 +103,6 @@ torch.Size([1, 2048, 6, 6])
 
 """
 
-def tensor2im(t): return ((t)*256).detach().cpu().permute(1,2,0).numpy().astype(np.uint8)
 
         
 
