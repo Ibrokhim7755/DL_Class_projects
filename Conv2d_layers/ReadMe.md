@@ -22,4 +22,5 @@ Overall, `Conv2d` layers play a crucial role in extracting spatial features from
 
 
 ### Example Code 
-C:\Users\ibroh\OneDrive\Desktop\Assignments\conv2d.py
+![Screenshot (61)](https://github.com/Ibrokhim7755/DL_Class_projects/assets/89033710/3d7469d5-8464-4ed3-9aef-cecbb2429a1b)
+
