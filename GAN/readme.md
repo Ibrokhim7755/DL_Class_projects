@@ -1,1 +1,1 @@
-# Gan(Generative Adverseral Network)
+# Gan(Generative Adversarial Network)
